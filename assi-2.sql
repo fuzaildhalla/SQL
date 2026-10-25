@@ -63,33 +63,3 @@ student_name varchar(100),                -- corrected query of table creation
 phone_numbers int ,
 created_at datetime
 );
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
